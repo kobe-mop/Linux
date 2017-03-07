@@ -1,0 +1,9 @@
+在当前bash环境下读取并执行FileName中的命令。
+
+*注：该命令通常用命令“.”来替代。
+
+使用范例：
+
+source filename 
+
+. filename（中间有空格）
