@@ -1,0 +1,3 @@
+find / -name kobe.txt
+locate kobe.txt
+ls -l | grep kobe.txt
